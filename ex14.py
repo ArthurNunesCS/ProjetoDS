@@ -1,5 +1,4 @@
 def soma(n1,n2):
-    soma = n1+n2
-    print(soma)
+    return n1+n2
 
-soma(1,2)
+print(soma(1,2))
